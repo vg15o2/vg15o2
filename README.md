@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVibTlqNHY5bm12MDM2dGR4b3ZyaXI5dmJwem1sZ3F5bTF5NXFtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif" width="200" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVibTlqNHY5bm12MDM2dGR4b3ZyaXI5dmJwem1sZ3F5bTF5NXFtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif" width="150" />
 
 > "*general kenobi*"
 
